@@ -4,6 +4,8 @@
 
 This is an example of using Wercker for continuous integration from the Product Engineering blog.
 
+Check out the post [here](https://medium.com/product-engineering/continuous-integration-with-wercker-e5d23b65cf7b#.9w385g2xo).
+
 ### Development
 * `npm run start`
 
