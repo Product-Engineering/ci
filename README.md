@@ -1,3 +1,4 @@
+![Continuous-Integration](/../screenshots/public/pe_ci.jpg?raw=true "Continuous-Integration")
 # Continuous Integration
 ---
 [![wercker status](https://app.wercker.com/status/e87f2a2132e6558d836e3e3a6a212b68/s/master "wercker status")](https://app.wercker.com/project/byKey/e87f2a2132e6558d836e3e3a6a212b68)
